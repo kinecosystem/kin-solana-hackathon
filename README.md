@@ -30,7 +30,9 @@ We will award projects that integrate Kin (including Web3, DeFi or NFT) in a way
 
   
 
-Entrants are encouraged to create projects based on our brand new [WebSDK](https://kintegrate.dev/tutorials/getting-started-web-sdk/). (Note this is in beta) This newly released SDK enables developers to create Kin enabled applications (including browser extensions) in [React](https://github.com/kin-sdk/kin-sdk-demo-react), [Vue](https://github.com/kin-sdk/kin-sdk-demo-vue) and [Angular](https://github.com/kin-sdk/kin-sdk-demo-angular). Our other Android and iOS SDKs are [described here](https://kintegrate.dev/).
+Entrants are encouraged to create projects based on our brand new [WebSDK](https://kintegrate.dev/tutorials/getting-started-web-sdk/). (Note this is in beta) This newly released SDK enables developers to create Kin enabled applications (including browser extensions) in [React](https://github.com/kin-sdk/kin-sdk-demo-react), [Vue](https://github.com/kin-sdk/kin-sdk-demo-vue) and [Angular](https://github.com/kin-sdk/kin-sdk-demo-angular). Our other Android and iOS SDKs are [described here](https://docs.kin.org/intro).
+
+You can visit [Kintegrate](https://kintegrate.dev/) (a developer supported site) for 30 minute integration tutorials.
 
 Eligible apps and services using official Kin SDKs are also welcome to join the [Kin Rewards Engine](https://kin.org/kin-rewards-engine/) to earn weekly rewards for their efforts.
 
